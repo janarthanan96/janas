@@ -1,0 +1,8 @@
+body{
+    background:rgb(95, 134, 160);
+}
+h1{
+    background-color: red ;
+    width: max-content;
+    border-radius: 10px;
+}
